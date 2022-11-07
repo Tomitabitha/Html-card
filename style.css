@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    
+}
+.Airtable{
+    padding: 20px;
+    border: 1px solid gray;
+    width: 25%;
+    height: 30%;
+    border-radius: 12px;
+    color: rgb(63, 56, 56);
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.free{
+    font-weight: bold;
+}
+h1{
+    font-weight: bold;
+    font-size: 48px;
+}
+button{
+    padding: 20px;
+    border: 2px solid gray;
+    border-radius: 100px;
+    width: 100%;
+    font-size: 16px;
+    background-color: white;
+
+}
